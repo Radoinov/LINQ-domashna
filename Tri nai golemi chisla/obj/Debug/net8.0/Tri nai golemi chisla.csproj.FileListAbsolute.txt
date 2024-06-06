@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\LINQ Domashna\Tri nai golemi chisla\bin\Debug\net8.0\Tri nai golemi chisla.exe
+C:\Users\User\source\repos\LINQ Domashna\Tri nai golemi chisla\bin\Debug\net8.0\Tri nai golemi chisla.deps.json
+C:\Users\User\source\repos\LINQ Domashna\Tri nai golemi chisla\bin\Debug\net8.0\Tri nai golemi chisla.runtimeconfig.json
+C:\Users\User\source\repos\LINQ Domashna\Tri nai golemi chisla\bin\Debug\net8.0\Tri nai golemi chisla.dll
+C:\Users\User\source\repos\LINQ Domashna\Tri nai golemi chisla\bin\Debug\net8.0\Tri nai golemi chisla.pdb
+C:\Users\User\source\repos\LINQ Domashna\Tri nai golemi chisla\obj\Debug\net8.0\Tri nai golemi chisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LINQ Domashna\Tri nai golemi chisla\obj\Debug\net8.0\Tri nai golemi chisla.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LINQ Domashna\Tri nai golemi chisla\obj\Debug\net8.0\Tri nai golemi chisla.AssemblyInfo.cs
+C:\Users\User\source\repos\LINQ Domashna\Tri nai golemi chisla\obj\Debug\net8.0\Tri nai golemi chisla.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LINQ Domashna\Tri nai golemi chisla\obj\Debug\net8.0\Tri nai golemi chisla.dll
+C:\Users\User\source\repos\LINQ Domashna\Tri nai golemi chisla\obj\Debug\net8.0\refint\Tri nai golemi chisla.dll
+C:\Users\User\source\repos\LINQ Domashna\Tri nai golemi chisla\obj\Debug\net8.0\Tri nai golemi chisla.pdb
+C:\Users\User\source\repos\LINQ Domashna\Tri nai golemi chisla\obj\Debug\net8.0\Tri nai golemi chisla.genruntimeconfig.cache
+C:\Users\User\source\repos\LINQ Domashna\Tri nai golemi chisla\obj\Debug\net8.0\ref\Tri nai golemi chisla.dll

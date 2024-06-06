@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\LINQ Domashna\Sort na dumi\bin\Debug\net8.0\Sort na dumi.exe
+C:\Users\User\source\repos\LINQ Domashna\Sort na dumi\bin\Debug\net8.0\Sort na dumi.deps.json
+C:\Users\User\source\repos\LINQ Domashna\Sort na dumi\bin\Debug\net8.0\Sort na dumi.runtimeconfig.json
+C:\Users\User\source\repos\LINQ Domashna\Sort na dumi\bin\Debug\net8.0\Sort na dumi.dll
+C:\Users\User\source\repos\LINQ Domashna\Sort na dumi\bin\Debug\net8.0\Sort na dumi.pdb
+C:\Users\User\source\repos\LINQ Domashna\Sort na dumi\obj\Debug\net8.0\Sort na dumi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LINQ Domashna\Sort na dumi\obj\Debug\net8.0\Sort na dumi.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LINQ Domashna\Sort na dumi\obj\Debug\net8.0\Sort na dumi.AssemblyInfo.cs
+C:\Users\User\source\repos\LINQ Domashna\Sort na dumi\obj\Debug\net8.0\Sort na dumi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LINQ Domashna\Sort na dumi\obj\Debug\net8.0\Sort na dumi.dll
+C:\Users\User\source\repos\LINQ Domashna\Sort na dumi\obj\Debug\net8.0\refint\Sort na dumi.dll
+C:\Users\User\source\repos\LINQ Domashna\Sort na dumi\obj\Debug\net8.0\Sort na dumi.pdb
+C:\Users\User\source\repos\LINQ Domashna\Sort na dumi\obj\Debug\net8.0\Sort na dumi.genruntimeconfig.cache
+C:\Users\User\source\repos\LINQ Domashna\Sort na dumi\obj\Debug\net8.0\ref\Sort na dumi.dll

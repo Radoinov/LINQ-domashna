@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\LINQ Domashna\Suma Min Max\bin\Debug\net8.0\Suma Min Max.exe
+C:\Users\User\source\repos\LINQ Domashna\Suma Min Max\bin\Debug\net8.0\Suma Min Max.deps.json
+C:\Users\User\source\repos\LINQ Domashna\Suma Min Max\bin\Debug\net8.0\Suma Min Max.runtimeconfig.json
+C:\Users\User\source\repos\LINQ Domashna\Suma Min Max\bin\Debug\net8.0\Suma Min Max.dll
+C:\Users\User\source\repos\LINQ Domashna\Suma Min Max\bin\Debug\net8.0\Suma Min Max.pdb
+C:\Users\User\source\repos\LINQ Domashna\Suma Min Max\obj\Debug\net8.0\Suma Min Max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LINQ Domashna\Suma Min Max\obj\Debug\net8.0\Suma Min Max.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LINQ Domashna\Suma Min Max\obj\Debug\net8.0\Suma Min Max.AssemblyInfo.cs
+C:\Users\User\source\repos\LINQ Domashna\Suma Min Max\obj\Debug\net8.0\Suma Min Max.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LINQ Domashna\Suma Min Max\obj\Debug\net8.0\Suma Min Max.dll
+C:\Users\User\source\repos\LINQ Domashna\Suma Min Max\obj\Debug\net8.0\refint\Suma Min Max.dll
+C:\Users\User\source\repos\LINQ Domashna\Suma Min Max\obj\Debug\net8.0\Suma Min Max.pdb
+C:\Users\User\source\repos\LINQ Domashna\Suma Min Max\obj\Debug\net8.0\Suma Min Max.genruntimeconfig.cache
+C:\Users\User\source\repos\LINQ Domashna\Suma Min Max\obj\Debug\net8.0\ref\Suma Min Max.dll

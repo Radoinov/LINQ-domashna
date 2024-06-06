@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\LINQ Domashna\Sumirane\bin\Debug\net8.0\Sumirane.exe
+C:\Users\User\source\repos\LINQ Domashna\Sumirane\bin\Debug\net8.0\Sumirane.deps.json
+C:\Users\User\source\repos\LINQ Domashna\Sumirane\bin\Debug\net8.0\Sumirane.runtimeconfig.json
+C:\Users\User\source\repos\LINQ Domashna\Sumirane\bin\Debug\net8.0\Sumirane.dll
+C:\Users\User\source\repos\LINQ Domashna\Sumirane\bin\Debug\net8.0\Sumirane.pdb
+C:\Users\User\source\repos\LINQ Domashna\Sumirane\obj\Debug\net8.0\Sumirane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LINQ Domashna\Sumirane\obj\Debug\net8.0\Sumirane.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LINQ Domashna\Sumirane\obj\Debug\net8.0\Sumirane.AssemblyInfo.cs
+C:\Users\User\source\repos\LINQ Domashna\Sumirane\obj\Debug\net8.0\Sumirane.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LINQ Domashna\Sumirane\obj\Debug\net8.0\Sumirane.dll
+C:\Users\User\source\repos\LINQ Domashna\Sumirane\obj\Debug\net8.0\refint\Sumirane.dll
+C:\Users\User\source\repos\LINQ Domashna\Sumirane\obj\Debug\net8.0\Sumirane.pdb
+C:\Users\User\source\repos\LINQ Domashna\Sumirane\obj\Debug\net8.0\Sumirane.genruntimeconfig.cache
+C:\Users\User\source\repos\LINQ Domashna\Sumirane\obj\Debug\net8.0\ref\Sumirane.dll

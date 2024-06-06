@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tri nai golemi chisla/1.0.0": {
+        "runtime": {
+          "Tri nai golemi chisla.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tri nai golemi chisla/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
