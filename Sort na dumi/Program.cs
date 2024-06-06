@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Въведете текст:");
+            Console.WriteLine("Vavedi tekst:");
             string input = Console.ReadLine();
             
             char[] separator = new char[] { '.', ',', ':', ';', '(', ')', '[', ']', '"', '\'', '\\', '/', '!', '?', ' ' };
